@@ -1,0 +1,22 @@
+<root>
+	<tymod name="Min Min Restored" version="0.1.0t" tyversion="" authors="NotSoCheezy" description="The first Earth opal level, now available to the public after 20 years!">
+		<!-- Add custom map from CustomMap0 directory. Path must be relative. -->
+		<level directory="MinMin/" name="Min Min">
+			<!-- Name of map in each supported language -->
+			<translation>
+				<english>Min Min</english>
+				<spanish>Min Min</spanish>
+				<german>Min Min</german>
+				<french>Min Min</french>
+				<italian>Min Min</italian>
+			</translation>
+
+			<!-- Position of portal in Rainbow Cliffs -->
+			<portal>
+				<x>100</x>
+				<y>2378</y>
+				<z>3994</z>
+			</portal>
+		</level>
+	</tymod>
+</root>
