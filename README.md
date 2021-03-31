@@ -8,8 +8,11 @@ Try to find all the earth opals, bilbies, and golden cogs! I actually haven't tr
 Special thanks to Koushi's rkvMT, Dnawrkshp's ty-1-tools, and Hidden Palace's Project Deluge! Without you, this would not have been possible!
 
 NotSoCheezy (Cassandra)
+
 https://www.twitch.tv/notsocheezygaming 
+
 https://github.com/NotSoCheezyTech 
+
 https://www.youtube.com/channel/UCNaFAsfNfu0dX6Ps49j8YeQ
 
 Changelog:
