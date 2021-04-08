@@ -1,5 +1,5 @@
 <root>
-	<tymod name="Min Min Revealed" version="0.1.0t" tyversion="" authors="NotSoCheezy" description="The first Earth opal level, now available to the public after 20 years!">
+	<tymod name="Min Min Revealed" version="0.2.0t" tyversion="" authors="NotSoCheezy" description="The first Earth opal level, now available to the public after 20 years!">
 		<!-- Add custom map from CustomMap0 directory. Path must be relative. -->
 		<level directory="MinMin/" name="Midnight Min Mins">
 			<!-- Name of map in each supported language -->
