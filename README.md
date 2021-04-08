@@ -17,6 +17,13 @@ https://www.youtube.com/channel/UCNaFAsfNfu0dX6Ps49j8YeQ
 
 Changelog:
 
+v0.2.0t:
+
+- Known bug: crashes on appearance/collection of thunder egg
+- Added sound effects.
+- New level name.
+- Added loading screen image.
+
 v0.1.0t:
 
 - Added original beta music.
