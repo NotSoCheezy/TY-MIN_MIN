@@ -6232,4 +6232,19 @@ rot = 0.000, 1.565, 0.000
 scale = 1.000, 1.000, 1.000
 // User: DYO
 
+name THUNDEREGG
+
+pos = 19928.508, 3536.772, -24228.039
+camera = camera
+  cameraSource = 19928.508, 3536.772, -24228.039
+  cameraTarget = 20681.121, 3523.981, -24480.773
+OnCollected = event
+  TargetID = 0,none
+  Message = none
+bInitiallyVisible = 0,false
+type = 1,bilbies
+ID = 273,blank
+platformID = 0,none
+// User: RBW
+
 [Zones]
