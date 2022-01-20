@@ -5,7 +5,7 @@ To use this mod, first install ty-mod-manager here: https://github.com/Dnawrkshp
 
 Try to find all the earth opals, bilbies, and golden cogs! I actually haven't tried yet.
 
-Special thanks to Koushi's rkvMT, Dnawrkshp's ty-1-tools, and Hidden Palace's Project Deluge! Without you, this would not have been possible!
+Special thanks to Koushi's rkvMT, Dnawrkshp's ty-1-tools, Floralz, and Hidden Palace's Project Deluge! Without you, this would not have been possible!
 
 NotSoCheezy (Cassandra)
 
@@ -16,6 +16,10 @@ https://github.com/NotSoCheezyTech
 https://www.youtube.com/channel/UCNaFAsfNfu0dX6Ps49j8YeQ
 
 Changelog:
+
+v0.3.0t:
+
+- Bilby/Thunder Egg bug fixed thanks to Floralz!
 
 v0.2.0t:
 
