@@ -1,0 +1,5 @@
+d1.lv2:
+This file remains here for reference: line 41 ("name BUSHPIG") refers to Bull. At this time, using the line as-is causes Ty to spawn anyway and fall under the map. d1.lv2 is set to be removed when Bull is made functional.
+
+Room_D1_MetalDocks.ptx:
+This is a texture file. Its appearance and use in the level are unknown.
