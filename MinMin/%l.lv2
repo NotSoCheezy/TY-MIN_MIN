@@ -360,7 +360,7 @@ bVisible = 1,true
 name OPALCOLLECTOR
 
 pos = 32212, 3725, -15599
-ID = 22,OpalCollector
+ID = 1800,OpalCollector
 rot = 0.000, 0.000, 0.000
 OnActivated = event
   TargetID = 0,none
@@ -6247,4 +6247,41 @@ ID = 273,blank
 platformID = 0,none
 // User: RBW
 
+pos = 32212, 3769, -15635
+camera = camera
+  cameraSource = 32212.000, 3769.000, -15635.000
+  cameraTarget = 32212.000, 3769.000, -15635.000
+OnCollected = event
+  TargetID = 11,OpalCollectorTrigger
+  Message = Deactivate
+bInitiallyVisible = 0,false
+type = 0,opals
+ID = 277,300Opals
+platformID = 0,none
+// User: RBW
+
+name TRIGGERSPHERE
+
+pos = 32212, 3725, -15599
+ID = 1934,OpalCollectorTrigger
+sphere = spherezone
+  pos = 32212, 3725, -15599
+  radius = 600.00
+bActive = 1,true
+OnEnter = event
+  TargetID = 1800,OpalCollector
+  Message = Toggle
+OnAction = event
+  TargetID = 1800,OpalCollector
+  Message = Activate
+OnExit = event
+  TargetID = 1800,OpalCollector
+  Message = Toggle
+bExclaim = 1,true
+bEnterOnceOnly = 0,false
+bExitOnceOnly = 0,false
+bActionOnceOnly = 0,false
+targetID = 0,none
+bSaveEnterOnceOnly = 0,false
+// User: DYO
 [Zones]
