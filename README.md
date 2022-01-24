@@ -17,6 +17,10 @@ https://www.youtube.com/channel/UCNaFAsfNfu0dX6Ps49j8YeQ
 
 Changelog:
 
+v0.3.1t:
+
+- Opal machine fixed thanks to Floralz!
+
 v0.3.0t:
 
 - Bilby/Thunder Egg bug fixed thanks to Floralz!
